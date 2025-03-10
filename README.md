@@ -1,0 +1,1 @@
+A full-stack web application using Django and React for managing user notes with CRUD operations, authentication via JWT tokens, and secure API interactions. It includes protected routes, automatic token refresh, and a responsive UI for a seamless user experience.
